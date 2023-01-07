@@ -1,2 +1,12 @@
 # walkthru2
-Walkthu of second week live coding session of fast.ai
+
+## An introduction
+Sample repo for walkthru 2 of fast.ai course.
+
+Another paragraph.
+
+## More Details
+
+Here is a list
+- First
+- Second
