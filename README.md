@@ -10,3 +10,7 @@ Another paragraph.
 Here is a list
 - First
 - Second
+
+Here is another:
+* First
+* Second
